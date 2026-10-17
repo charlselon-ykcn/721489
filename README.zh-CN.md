@@ -4,7 +4,7 @@
 
 用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，竖屏独立编排。
 
-**9:16 · 1080 × 1920 · 60 fps · v2.6.0** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
+**9:16 · 1080 × 1920 · 60 fps · v2.6.1** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@adunext/vibrant-poster-portrait)**
 https://motiongit.com/@adunext/vibrant-poster-portrait
