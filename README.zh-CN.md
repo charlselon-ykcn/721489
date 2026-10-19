@@ -4,7 +4,7 @@
 
 用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，竖屏独立编排。
 
-**9:16 · 1080 × 1920 · 60 fps · v2.7.6** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
+**9:16 · 1080 × 1920 · 60 fps · v2.7.7** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@adunext/vibrant-poster-portrait)**
 https://motiongit.com/@adunext/vibrant-poster-portrait
@@ -30,7 +30,7 @@ https://motiongit.com/@adunext/vibrant-poster-portrait
 
 ## 输入素材与内容
 
-- **必需:** 原生口播流程使用的本期人物视频与原声。
+- **可选:** 原生口播流程使用的本期人物视频与原声。
 - **必需:** 与本期口播匹配的文稿或 SRT 字幕。
 - **可选:** 对话中已有的主题、关键要点与输出偏好，由助手整理为方案。
 
