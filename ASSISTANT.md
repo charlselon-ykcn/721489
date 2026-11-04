@@ -3,8 +3,8 @@
 Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated portrait layout.
 
 Template & full download: https://motiongit.com/@adunext/vibrant-poster-portrait
-Version: 2.7.18-alpha.6
-Download available; current terms are listed with the package.
+Version: 2.7.18-alpha.7
+Demo available; template download coming soon.
 
 ## Technical reference
 
